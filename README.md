@@ -1,1 +1,1 @@
-Landing page por Wallos [wallosapp.com](https://wallosapp.com)
+[wallosapp.com](https://wallosapp.com) - Landing page for [Wallos](https://github.com/ellite/Wallos)

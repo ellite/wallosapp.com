@@ -1,1 +1,1 @@
-Landing page por Wallos [wallosapp.com](https://wallosapp.com){:target="_blank"}
+Landing page por Wallos [wallosapp.com](https://wallosapp.com)

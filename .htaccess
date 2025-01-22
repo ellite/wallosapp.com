@@ -1,0 +1,4 @@
+# Block access to .git directory
+RewriteEngine On
+RewriteRule ^\.git/ - [F,L]
+RedirectMatch 404 /\..*$
